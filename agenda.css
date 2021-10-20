@@ -1,3 +1,30 @@
 body{
 	background-color: rgb(209, 245, 236);
 }
+h1{
+	font-family: arial;
+	color: Blue
+}
+.style1{
+	background-color: FFFFFF;
+}
+.style2{
+	font-family: arial;
+	font-weight: normal;
+	font-size: x-small;
+	background-color: 3399FF;
+}
+.stylefete{
+   font-family:arial;
+   font-weight:normal;
+   font-size:x-small;
+   background-color:228822;
+}
+.style3{
+  font-family:chesmasterX;
+  font-size:small;
+}
+.style4{
+   border-style:solid;
+   border-width:1px;
+}
